@@ -2,15 +2,15 @@
 
 Code for analysis of UKB longitudinal data (2,722 subjects).
 
-<img src='https://github.com/aorliche/ukb-longitudinal-smt-vis/blob/9d118f99149020c967f376bcd9442c79ce2a8830/images/diff.png' alt='diff.png' width='800'>
+<img src='https://github.com/aorliche/ukb-longitudinal-smt-vis/blob/9d118f99149020c967f376bcd9442c79ce2a8830/images/diff.png' alt='diff.png' width='600'>
 
 Our finding is that SMT-VIS connectivity is weakly but significantly increased over the average of 2 years between scans.
 
-<img src='https://github.com/aorliche/ukb-longitudinal-smt-vis/blob/9d118f99149020c967f376bcd9442c79ce2a8830/images/significance.png' alt='significance.png' width='800'>
+<img src='https://github.com/aorliche/ukb-longitudinal-smt-vis/blob/9d118f99149020c967f376bcd9442c79ce2a8830/images/significance.png' alt='significance.png' width='600'>
 
 Many SMT or VIS regions are more predictive of scan age than average.
 
-<img src='https://github.com/aorliche/ukb-longitudinal-smt-vis/blob/9d118f99149020c967f376bcd9442c79ce2a8830/images/power264.png' alt='power264.png' width='800'>
+<img src='https://github.com/aorliche/ukb-longitudinal-smt-vis/blob/9d118f99149020c967f376bcd9442c79ce2a8830/images/power264.png' alt='power264.png' width='600'>
 
 # How to Use
 
