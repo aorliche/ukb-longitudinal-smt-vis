@@ -12,6 +12,10 @@ Many SMT or VIS regions are more predictive of scan age than average.
 
 <img src='https://github.com/aorliche/ukb-longitudinal-smt-vis/blob/9d118f99149020c967f376bcd9442c79ce2a8830/images/significance.png' alt='significance.png' width='600'>
 
+# FC Increases in Cross-Sectional Data
+
+We find that FC significantly increases overall in cross-sectional data with age, although not moreso in SMT-VIS compared to other regions. This raises the possibility of a change in scanner task during the second longitudinal scan.
+
 # How to Use
 
 Requires jupyter notebook and common python packages (no requirements.txt, they are very standard).
